@@ -1,0 +1,14 @@
+{
+  "expo":{
+       "name": "DrawerCustom",
+       "slug": "DrawerCustom",
+       "orientation": "portrait",
+       "splash": {
+           "image": "./assets/splash.jpeg",
+           "resizeMode":"cover",
+           "backgroundColor": "#ffffff"
+       },
+  },
+  "name": "DrawerCustom",
+  "displayName": "DrawerCustom"
+}
